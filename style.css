@@ -1,0 +1,41 @@
+
+
+/* Team Member */
+
+.teamMember .form-control {
+    height: calc(1em + 0.75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1;
+}
+.teamMember label {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.team-so-ic {
+    list-style: none;
+}
+ul.team-so-ic li {
+    display: inline;
+    margin-right: 10px;
+}
+ul.team-so-ic li a{
+    text-decoration: none;
+}
+.teamMember .teamMembers .list-group-item {
+    padding: 5px 7px;
+    line-height: 14px;
+    margin-bottom: 14px;
+}
+h3.bborder {
+    padding-bottom: 8px;
+    border-bottom: 1px solid greenyellow;
+}
+.card-body.devs-card {
+    padding: 0.75rem;
+}
+p.devs-gender {
+    margin-bottom: 5px;
+}
